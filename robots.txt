@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omaryasn6-coder.github.io/ai-freelancer-command-center-store/sitemap.xml
